@@ -1,0 +1,88 @@
+%%voicevol(0=0)
+%%staffsep 60
+%%sysstaffsep 60
+%%keydefined C=higher
+%%contbarnb 1
+%%leftmargin 20
+%%rightmargin 10
+%%titlefont Microsoft-YaHei 28
+%%stretchlast 0.9
+%%linebreak $
+%%pos vocal down 
+%%createby localhost:8080  2022-10-21 
+%%equalbars 0 
+%%keywarn 0 
+%%cancelkey 0 
+I:abc-charset utf-8
+X: 1
+T: 程序员之歌v0.22
+C: 词曲：littleflute
+C: 录谱：littleflute
+Q: "" 1/4=104 
+M: 4/4
+L: 1/8
+K: C
+%%vsetting_start
+%%score 1
+V:1 treble
+%%MIDI program 0
+%%vsetting_end
+V:1
+G3 c G2 ED| A,3 C D2 ED | C3 D C2 A,C| G,8|$$ 
+w: 我 * * 来 自 南 *方 一 个 小 小 村 ** 落
+A,2 A,G, A,2 C2 | G3 c G2 E2 | D3 E DC A,C| D8|$$ 
+w: 那 里 还 住 着 我 * * * 我 的 外 *** 婆
+A,2 A,G, A,2 C2 | G3 c G2 E2 | D D2 E DC A,C| D8|$$ 
+w: 她 知 * 道 *  我  *** 现 在 在 北 京 工 * 作
+Gc Ac Ac Ac | E E2 G DC D2 | DA, B,A, G,2 A,C| DA, B,A, G,4| $$ 
+w: 她 * 不 *知道 ** *什 么 是  com- pu- ter com -  put - er ** com -  put - er 
+G3 c G2 ED| A,3 C D2 ED | C3 D C2 A,C| G,8|$$ 
+w: 我 ** 总 想 回 南 方 那 个 小 小 村 **落
+A,2 A,G, A,2 C2 | G3 c G2 E2 | D3 E DC A,C| D8|$$ 
+w: 回 去* 看 看 我 * * * 我 的 外 *** 婆
+A,2 A,G, A,2 C2 | G3 c G2 E2 | D D2 E DC A,C| D8|$$ 
+w: 我 想 * 告 诉 她  *** 什 么 是 com - pu - ter
+Gc Ac Ac Ac | E E2 G DC D2 | DA, B,A, G,2 A,C| DA, B,A, G,4| G6 zE| $$ 
+w: 还*要*给 她 ** 唱 唱* 这 首 歌 这* 首* 歌 **这* 首* 歌 He。我
+EE ED CC CG,| E2 GA GC3| z6 zC| AA AG A2 c2| AG DE D4| z6 zE| $$ 
+w: *们 每 天 都 在 冒 着 微 软 的 炮 火 在 0 和 1 之 间 * 不 停 穿* 梭 只
+EE ED CC CG,| E2 GA GC3| z2 CC A2 A2 | AG AG A c2 D | E D3 z4 | z6 zE| $$ 
+w: *为 早 日 能 够 逃 出 比 尔 的 漩 涡 好 去 逛 逛 中 关 村 的 每  个 角* 落 不
+EE ED CC CG,| E2 GA C4| z3 C A2 A2 | AG Ac3 AG | A G2 E GD ED | D6 zE| $$ 
+w: *要 以 为 我 们 总 是 挣 得 很 多 别 忘 了 我 的 午 餐 只 有 8 元 1 盒****就
+EE ED CC CG,| E2 GA GC3| z2 CC A2 A2 | AG Ac2 G DE | D8| z6 zE| $$ 
+w: *是 凭 着 这 点 能 量 努 力 的 工 作 一 切 都 是 为 了 I  T  Of  Chi - na 有
+EE ED CC CG,| E2 GA GC3| z2 CC A2 AG | AG Ac2 G DE | D8| z6 zE| $$ 
+w: *时 我 的 作 息 时 间 像 是 在 美 国 可 是 我 从 来 没 有 去 过 New - - York 敲
+EE ED CC CG,| E2 GA GC3| z2 CC A2 A2 | AG Ac3 AG | A G2 E GD ED| D6 zE| $$ 
+w: *打 键 盘 点 击 鼠 标 真 的 是 忘 我 不 知 不 觉 多 少 约 会 就 是 这 么 错 过****空
+EE ED CC CG,| E2 GA GC3| z2 CC A2 A2 | AG Ac3 AG | A G2 E GD ED| D6 zE| $$ 
+w: * 调 吹 着 我 们 就 在 常 温 下 工 作 不 懂 什 么 风 花 雪 月 什 么 日 出 日 落****忙
+EE ED CC CG,| E2 GA CE3| z2 CC A2 A2 | AG Ac3 Ac | d2 cA BA B2| B6 zE| $$ 
+w: * 的 时 候 真 的 就 是 没 有 话 可 说 只 要 能 发 加 班 工 资 我 就 感 觉 不 错***给
+EE ED CC CG,| E2 GA GC3| z2 CC A2 A2 | AG AG A2 GD | GD ED3| z6 zE| $$ 
+w: * 我 一 个 永 远 不 会 掉 线 的 网 络 我 就 不 想 再 去 周 口  店 度 周 末***只
+EE ED CC CG,| E2 GA GC3| z2 CC A2 A2 | AG AG A c2 G | A G2 E GD ED| D6 zE| $$ 
+w: * 要 美 眉 在 线 头 像 不 停 的  闪 烁 我 就 彻 底 忘 了 Bo-  ss 昨 天 给 我 的 脸 色****账
+EE ED CC CG,| E2 GA C4| z3 C A2 A2 | AG Ac3 AG | A2 GE GD ED| D6 zE| $$ 
+w: * 号 密 码 曾 经 盗 过 那 么 几 个 却 从 来 不 敢 自 称 自 己 是 个 黑 客****山
+EE ED CC CG,| E2 GA CE3| z2 CC A2 A2 | AG AG AG AG | GE GD ED3 | z8 | $$ 
+w: *外 有 山 天 外 有 天 我 算 的 什 么 每 天 都 是 听 着 M P 3 去 上 班* 赶 车 
+z3 C c2 c2 | cA AG AG AG | Ac3 z2 AG | AG AG Ac2 G| DE D4 CD | $$ 
+w: oh 网 上 我 的 朋 友 一 天 天 地 增 多 你 看 他 们 都 是 那 么 地 爱 *国 总 是
+EE ED EG2 G | d2 BA G4 | z2 AG A2 c2 | AG Ac3 AG| $$ 
+w:  发 了 消 息 劝 我 要 抵 制 日 货 最 好 日 常 所 用 一 切 都 是
+A2 G2 GD ED | D6 zE| EE ED CC CG,| E2 GA GC3| $$ 
+w:  Made In Chi - - - na 看 * 来 革 命 道 理 宣 传 还 得 靠 网 络 
+z2 CC A2 AG | Ac3 z2  AG | AG2 E GD ED| D6 zE| $$ 
+w:  请 你 将 这 个 消 息 不 断 往 下 传 播**** 创
+EE ED CC CG,| E2 GA GC3| z2 CC AA AG | Ac3 z2  AG |$$ 
+w: * 造 虚 拟 逃 避 现 实 别 这 么 说 我 我 是 多 么 想 念 故 乡 多 么  
+A2 c2 c A2 G| GD ED D4| z6 zC| $$
+w: 想 念 我 的 外 婆**** 哦
+c2 c2 cA AG | AG A c3 AG| G2 GE AG3| z2 CC AA AG| $$
+w:在 那 没 有 里 程 碑 的 路 上 我 们 苦 苦 地 颠 簸 只 为 早 日 点 燃
+AA Ac2 G AG | A2 GD ED3 |z6 zC| $$
+w:  中 国 I T 的 熊 熊 烈 火 ***Oh
+c2 c2 cA AG | G2 G2 G G2 E| A2 G2 z2 G,G,| E2 E2 GD ED | D8| E2 D2 CA, D2 | C8||$$
+w:巨 人 肩 膀 上 面 我 们 苦 苦 的 探 索 一 切 都 是 为* **了 I T  Of *   Chi-na
